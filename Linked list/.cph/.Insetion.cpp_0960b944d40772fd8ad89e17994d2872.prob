@@ -1,0 +1,1 @@
+{"name":"Local: Insetion","url":"d:\\Data structure c++\\Linked list\\Insetion.cpp","tests":[{"id":1684171706259,"input":"","output":"1->NULL\n1->2->NULL\n1->2->3->NULL\n1->2->3->4->NULL\n5->1->2->3->4->NULL"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Data structure c++\\Linked list\\Insetion.cpp","group":"local","local":true}
